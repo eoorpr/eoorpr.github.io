@@ -1,0 +1,14 @@
+document.writeln("");
+document.writeln("<style type=\'text/css\'>.nextpage { background:#27AD37; color:#fff;    bottom: 0;    margin: 0 auto;    position: fixed; filter: alpha(opacity=60);    width: 100%;    z-index: 999;    _bottom:auto;    _width: 100%;    _position: absolute;    _top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,10)||0)));}</style>");
+document.writeln("");
+document.writeln("<div class=\'nextpage\'>");
+document.writeln("");
+document.writeln("<div class=\'container\' style=\'padding:0px;\'>");
+document.writeln("<a onclick=gotoline() >");
+document.writeln("<img src=\'static/picture/line.png\' width=\'100%\'>");
+document.writeln("</a>");
+document.writeln("</div>");
+document.writeln("	</div>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
